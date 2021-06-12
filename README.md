@@ -21,4 +21,4 @@ The dataprocessor.py file does some preprocessing on the data produced by runnin
 
 ## bert.py
 
-The bert.py file uses the pre-trained BERT Tokenizer and Sequence Classifier to eventually predict the overall sentiment of stock related news articles.
+The bert.py file uses the pre-trained BERT Tokenizer and Sequence Classifier from the [transformers library](https://huggingface.co/transformers/) to eventually predict the overall sentiment of stock related news articles.
