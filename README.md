@@ -9,7 +9,7 @@ investor is short project exploring sentiment analysis of stock related news art
 
 ## utilities.py
 
-The utilities.py file contains a function for cleaning and tokenizing a text block. It returns an array of tokenized text, void of certain stopwords, punctionation, and extraneous symbols.
+The utilities.py file contains a function for cleaning and tokenizing a text block. It returns an array of tokenized text, void of certain stopwords, punctuation, and extraneous symbols.
 
 ## databuilder.py
  
